@@ -1,4 +1,4 @@
-module github.com/KeisukeYamashita/go-apple-store-connect
+module github.com/ringho/go-apple-store-connect
 
 go 1.14
 
