@@ -1,4 +1,4 @@
-module github.com/ringho/go-apple-store-connect
+module github.com/ringho/go-app-store-connect
 
 go 1.14
 
