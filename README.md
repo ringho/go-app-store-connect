@@ -5,7 +5,7 @@ Go written client for [Apple Store Connect API](https://developer.apple.com/app-
 
 ```go
 func main(){
-    client, _ := apple.NewClient(apple.AppStoreConnectAPIURL)
+    client, _ := app.NewClient(app.AppStoreConnectAPIURL)
 }
 ```
 
